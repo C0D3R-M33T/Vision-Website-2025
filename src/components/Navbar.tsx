@@ -33,10 +33,6 @@ const routeList: RouteProps[] = [
     label: "Testimonials",
   },
   {
-    href: "#pricing",
-    label: "Pricing",
-  },
-  {
     href: "#faq",
     label: "FAQ",
   },
@@ -55,7 +51,7 @@ export const Navbar = () => {
               className="ml-2 font-bold text-xl flex"
             >
               <LogoIcon />
-              ShadcnUI/React
+              VISION
             </a>
           </NavigationMenuItem>
 

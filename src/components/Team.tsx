@@ -24,8 +24,8 @@ interface SociaNetworkslProps {
 const teamList: TeamProps[] = [
   {
     imageUrl: "https://i.pravatar.cc/150?img=35",
-    name: "Emma Smith",
-    position: "Product Manager",
+    name: "Dr. Shilpa Sharma",
+    position: "HoD, Dept. Computer Applications",
     socialNetworks: [
       {
         name: "Linkedin",
@@ -43,8 +43,8 @@ const teamList: TeamProps[] = [
   },
   {
     imageUrl: "https://i.pravatar.cc/150?img=60",
-    name: "John Doe",
-    position: "Tech Lead",
+    name: "Dr. Kuntal Gaur",
+    position: "Faculty Convener",
     socialNetworks: [
       {
         name: "Linkedin",
@@ -62,8 +62,8 @@ const teamList: TeamProps[] = [
   },
   {
     imageUrl: "https://i.pravatar.cc/150?img=36",
-    name: "Ashley Ross",
-    position: "Frontend Developer",
+    name: "Roshmeet Chakraborty",
+    position: "Student Convener",
     socialNetworks: [
       {
         name: "Linkedin",
@@ -78,8 +78,38 @@ const teamList: TeamProps[] = [
   },
   {
     imageUrl: "https://i.pravatar.cc/150?img=17",
-    name: "Bruce Rogers",
-    position: "Backend Developer",
+    name: "Nakul Goyal",
+    position: "Student Convener",
+    socialNetworks: [
+      {
+        name: "Linkedin",
+        url: "https://www.linkedin.com/in/leopoldo-miranda/",
+      },
+      {
+        name: "Facebook",
+        url: "https://www.facebook.com/",
+      },
+    ],
+  },
+  {
+    imageUrl: "https://i.pravatar.cc/150?img=17",
+    name: "Swatee Gupta",
+    position: "Student Convener",
+    socialNetworks: [
+      {
+        name: "Linkedin",
+        url: "https://www.linkedin.com/in/leopoldo-miranda/",
+      },
+      {
+        name: "Facebook",
+        url: "https://www.facebook.com/",
+      },
+    ],
+  },
+  {
+    imageUrl: "https://i.pravatar.cc/150?img=17",
+    name: "Yagya Goel",
+    position: "Student Convener",
     socialNetworks: [
       {
         name: "Linkedin",
@@ -114,9 +144,9 @@ export const Team = () => {
     >
       <h2 className="text-3xl md:text-4xl font-bold">
         <span className="bg-gradient-to-b from-primary/60 to-primary text-transparent bg-clip-text">
-          Our Dedicated{" "}
+          People behind your {" "}
         </span>
-        Crew
+        VISION
       </h2>
 
       <p className="mt-4 mb-10 text-xl text-muted-foreground">

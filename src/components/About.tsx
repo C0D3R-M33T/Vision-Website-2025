@@ -18,16 +18,12 @@ export const About = () => {
             <div className="pb-6">
               <h2 className="text-3xl md:text-4xl font-bold">
                 <span className="bg-gradient-to-b from-primary/60 to-primary text-transparent bg-clip-text">
-                  About{" "}
+                  Are we just another random{" "}
                 </span>
-                Company
+                HACKATHON ???
               </h2>
               <p className="text-xl text-muted-foreground mt-4">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit
-                amet, consectetur adipiscing elit.
+              Vision is a 36-hour project development hackathon designed to inspire creativity, innovation, and hands-on learning. Unlike traditional hackathons that focus on industry-sponsored problem statements, Vision empowers participants to work on their own ideas, fostering originality and technical excellence. With two challenging rounds, the event encourages students to step out of their comfort zones, collaborate, and transform their concepts into functional projects. Vision is more than just a competition—it’s a space for learning, growth, and showcasing skills in teamwork, leadership, and problem-solving. Whether you’re a coder, designer, or strategist, this hackathon provides the perfect opportunity to bring your vision to life.
               </p>
             </div>
 

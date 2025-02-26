@@ -18,22 +18,22 @@ interface FeatureProps {
 
 const features: FeatureProps[] = [
   {
-    title: "Responsive Design",
+    title: "Project-First Approach",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt est nostrum omnis ab sapiente.",
+      "Unlike traditional hackathons that focus on predefined industry problem statements, Vision prioritizes open-ended project development, allowing participants to build and innovate freely.",
     image: image4,
   },
   {
-    title: "Intuitive user interface",
+    title: "Inclusivity & Growth",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt est nostrum omnis ab sapiente.",
-    image: image3,
+      "Designed to empower underconfident students, Vision provides a supportive environment where participants can step out of their comfort zones, refine their skills, and gain real-world experience.",
+    image: image,
   },
   {
-    title: "AI-Powered insights",
+    title: "Beyond Just Coding",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt est nostrum omnis ab sapiente.",
-    image: image,
+      "Vision isn’t just about programming; it fosters teamwork, leadership, and creativity, encouraging participants to showcase their ideas, collaborate, and develop impactful solutions.",
+    image: image3,
   },
 ];
 
